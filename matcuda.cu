@@ -1,3 +1,4 @@
+//cuda code to perform matrix normalization
 #include<stdio.h>
 #include<cuda_runtime.h>
 #include<stdlib.h>
